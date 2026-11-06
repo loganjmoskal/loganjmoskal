@@ -18,8 +18,6 @@ I'm a **Computer Science** student in the **Applied Data Science** option at **O
 
 ### Tools
 
-### Tools
-
 **Data:** Python · pandas · SQL · PostgreSQL · MySQL
 
 **Web:** JavaScript · TypeScript · React · Node.js · Express · MongoDB · CSS
