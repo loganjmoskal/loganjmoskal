@@ -14,7 +14,7 @@ I'm a **Computer Science** student in the **Applied Data Science** option at **O
 | Project | What it is | Stack |
 |---|---|---|
 | [OSU-Capstone-OHSU-Database](https://github.com/robekenn/OSU-Capstone-OHSU-Database) | Simulation case database for the OHSU School of Nursing (team capstone) | TypeScript, React, PostgreSQL |
-| [orng-tasks](https://github.com/loganjmoskal/orng-tasks) | To-do app built from six microservices, including a Python date/time service over ZeroMQ | React, Express, MongoDB, Python |
+| [orng-tasks](https://github.com/loganjmoskal/orng-tasks) | To-do app built from five microservices, including a Python date/time service over ZeroMQ | React, Express, MongoDB, Python |
 
 ### Tools
 
