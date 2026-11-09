@@ -6,7 +6,7 @@ Computer Science student in the **Applied Data Science** option at **Oregon Stat
 
 ### Currently working on
 
-- **[OHSU School of Nursing Simulation Case Database](https://github.com/robekenn/OSU-Capstone-OHSU-Database)**: my Oregon State senior capstone, built with a five-person team. It's a searchable database where nursing faculty across campuses create, share and adapt simulation cases. I built the search and filter feature end to end (Express + PostgreSQL API and the React Cases page), the app shell and navigation, the shared design system with automated WCAG contrast checks, and the team's GitHub Actions CI pipeline.
+- **[OHSU School of Nursing Simulation Case Database](https://github.com/robekenn/OSU-Capstone-OHSU-Database)**: my Oregon State senior capstone, built with a four-person team. It's a searchable database where nursing faculty across campuses create, share and adapt simulation cases. I built the search and filter feature end to end (Express + PostgreSQL API and the React Cases page), the app shell and navigation, the shared design system with automated WCAG contrast checks, and the team's GitHub Actions CI pipeline.
 - **NFL Big Data Bowl 2027**: my student-track Kaggle entry, analyzing frame-by-frame NFL player tracking data with Python and pandas.
 
 ### Projects
